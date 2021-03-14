@@ -23,4 +23,6 @@ try {
 
 }
 
+$crud = new crud($pdo);
+
 ?>
