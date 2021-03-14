@@ -1,5 +1,7 @@
 <?php 
 
+require_once 'crud.php';
+
 // Define PDO database connection parameters and store each of them into a variable.
 $host = 'localhost';
 $name = 'test_db';
